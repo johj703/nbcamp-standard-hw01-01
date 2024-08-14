@@ -1,2 +1,1 @@
-# standard_1st_homework
- 
+# standard_1st_homework number one
